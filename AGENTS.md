@@ -85,6 +85,7 @@ Defined macros in `34.dtsi`:
 - `NM` (keys 26+27) → Volume Down
 - `M,<` (keys 27+28) → Volume Up
 - `ER` (keys 13+16) → Caps Word
+- `D+K` (keys 12+17) → F20 for push-to-talk voice input
 
 ## ZMK Configuration
 
