@@ -151,3 +151,5 @@ combos:
   k: VOL UP
 - p: [13, 16]
   k: '&caps_word'
+- p: [12, 17]
+  k: F20

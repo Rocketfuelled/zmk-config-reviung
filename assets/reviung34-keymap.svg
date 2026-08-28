@@ -309,6 +309,12 @@ path.combo {
 <rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
 <text x="308" y="84" class="combo tap"><tspan style="font-size: 70%">&amp;caps_word</tspan></text>
 </g>
+<g class="combo combopos-5">
+<path d="M308,84 l-149,0" class="combo"/>
+<path d="M308,84 l149,0" class="combo"/>
+<rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
+<text x="308" y="84" class="combo tap">F20</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-symbols">
@@ -473,6 +479,12 @@ path.combo {
 <path d="M308,84 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
 <text x="308" y="84" class="combo tap"><tspan style="font-size: 70%">&amp;caps_word</tspan></text>
+</g>
+<g class="combo combopos-5">
+<path d="M308,84 l-149,0" class="combo"/>
+<path d="M308,84 l149,0" class="combo"/>
+<rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
+<text x="308" y="84" class="combo tap">F20</text>
 </g>
 </g>
 </g>
@@ -649,6 +661,12 @@ path.combo {
 <rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
 <text x="308" y="84" class="combo tap"><tspan style="font-size: 70%">&amp;caps_word</tspan></text>
 </g>
+<g class="combo combopos-5">
+<path d="M308,84 l-149,0" class="combo"/>
+<path d="M308,84 l149,0" class="combo"/>
+<rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
+<text x="308" y="84" class="combo tap">F20</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 840)" class="layer-config">
@@ -812,6 +830,12 @@ path.combo {
 <path d="M308,84 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
 <text x="308" y="84" class="combo tap"><tspan style="font-size: 70%">&amp;caps_word</tspan></text>
+</g>
+<g class="combo combopos-5">
+<path d="M308,84 l-149,0" class="combo"/>
+<path d="M308,84 l149,0" class="combo"/>
+<rect rx="6" ry="6" x="294" y="71" width="28" height="26" class="combo"/>
+<text x="308" y="84" class="combo tap">F20</text>
 </g>
 </g>
 </g>
