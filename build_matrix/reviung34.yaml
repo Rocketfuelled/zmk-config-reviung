@@ -1,4 +1,4 @@
 include:
-  - shield: reviung34
+  - shield: reviung34_custom
     board: nice_nano_v2
     keymap: config/reviung34.keymap

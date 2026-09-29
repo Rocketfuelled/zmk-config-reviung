@@ -7,6 +7,8 @@ on:
     paths:
       - "**reviung34.*"
       - "**34.dtsi"
+      - "build_matrix/reviung34.yaml"
+      - "config/boards/shields/reviung34_custom/**"
   pull_request:
   workflow_dispatch:
 
